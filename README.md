@@ -1,3 +1,3 @@
 # Hi, my name is Aibol!
 
-I'm a **Front-End Developer**.
+I'm a **Frontend Developer**.
